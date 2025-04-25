@@ -1,3 +1,8 @@
+# NIM: 1124102188
+# Class Queue dan Stack dipisah jadi 2 file dengan nama class_queue.py dan class_stacl.py
+# Menu Queue dan Stack Dipisah jadi 2 file dengan nama menu_class_queue.py dan menu_class_stack.py
+# Total 5 file, Mainprogram.py untuk memberi menu pilihan stack/queue
+
 from menu_class_stack import menu_stack
 from menu_class_queue import menu_queue
 from sys import exit
